@@ -1,0 +1,29 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "Create Your Own Project Runner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlucario/watchit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlucario/watchit/issues"
+  },
+  "homepage": "https://github.com/mlucario/watchit#readme",
+  "bin": {
+    "watchit": "index.js"
+  },
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chalk": "^4.1.0",
+    "chokidar": "^3.4.0",
+    "lodash": "^4.17.15"
+  }
+}
