@@ -30,10 +30,10 @@ watchit
 ```
 ## Showcase
 ### watch -h
-![watch -h](/assets/images/help.png)
+![watch -h](/assets/images/help.PNG)
 
 ### watch test.js
-![watch test.js](/assets/images/watchit.png)
+![watch test.js](/assets/images/watchit.PNG)
 
 ## What I learn ?
 How to use npm to install node.js package: **chokidar**, **caporal**, **chalk**, **lodash**, and **child_process**.  
